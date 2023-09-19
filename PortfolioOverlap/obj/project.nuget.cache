@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O5EJ/WskP+6nAoMJzzZv0kMkzWWrPBu0iuF+S78DGJJdmufeH2WDMtsgCB1p/IGsVfovwx60z6KsdazjJqJapA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aishwaryamantri\\Desktop\\s\\PortfolioOverlap\\PortfolioOverlap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aishwaryamantri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
